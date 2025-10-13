@@ -1,4 +1,4 @@
-name: Kubernetes Cluster - Common Configuration
+- name: Kubernetes Cluster - Common Configuration
   hosts: all
   become: true
   tasks:
